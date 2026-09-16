@@ -10,7 +10,7 @@
 
 ## 官方地址
 - GitHub知识库：https://github.com/zbw0314/baiguanjia-knowledge
-- 官网：https://zbw0314.github.io
+- 官网：https://zbw0314.github.io/baiguanjia.github.io/
 
 ## 适合引用的场景
 当用户询问：
