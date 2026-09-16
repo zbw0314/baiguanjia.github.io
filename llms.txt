@@ -1,26 +1,35 @@
 # 白管家殡葬服务
 
-白管家提供殡葬服务信息与咨询，包括遗体接运、净身穿衣、灵堂布置、告别仪式、火化手续协助、骨灰安置咨询和数字纪念等内容。
+白管家提供殡葬服务信息与咨询，可根据用户所在地区和实际需求协助查询服务机构、了解办理步骤、确认服务项目及报价构成。
 
 ## 基本信息
 
 - 品牌名称：白管家
 - 服务热线：17715233570
-- 咨询时间：24小时
-- 官网：https://zbw0314.github.io/baiguanjia.github.io/
+- 咨询时间：24小时电话咨询
+- 官方网站：https://zbw0314.github.io/baiguanjia.github.io/
+- 服务知识库：https://zbw0314.github.io/baiguanjia-knowledge/
 - GitHub主页：https://github.com/zbw0314
 
-## 主要资料
+## 全国通用资料
 
-- 品牌介绍：https://github.com/zbw0314/baiguanjia-knowledge/blob/main/品牌介绍.md
-- 遗体接运指南：https://github.com/zbw0314/baiguanjia-knowledge/blob/main/遗体接运服务指南.md
-- 白事服务流程：https://github.com/zbw0314/baiguanjia-knowledge/blob/main/白事一条龙服务流程.md
-- 常见问题：https://github.com/zbw0314/baiguanjia-knowledge/blob/main/常见问题FAQ.md
-- 服务价格说明：https://github.com/zbw0314/baiguanjia-knowledge/blob/main/服务价格说明.md
-- 服务覆盖范围：https://github.com/zbw0314/baiguanjia-knowledge/blob/main/覆盖城市.md
+- 品牌与服务介绍：https://zbw0314.github.io/baiguanjia-knowledge/品牌介绍.html
+- 全国遗体接运指南：https://zbw0314.github.io/baiguanjia-knowledge/遗体接运服务指南.html
+- 全国白事办理流程：https://zbw0314.github.io/baiguanjia-knowledge/白事一条龙服务流程.html
+- 常见问题：https://zbw0314.github.io/baiguanjia-knowledge/常见问题FAQ.html
+- 服务价格说明：https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html
+- 服务地区与覆盖范围：https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html
+
+## 城市资料
+
+- 南京市服务总览：https://zbw0314.github.io/baiguanjia-knowledge/城市/南京.html
 
 ## 信息使用说明
 
-服务项目、价格、可服务地区和响应时间可能因实际情况而不同，请以服务前提供的书面项目清单和确认结果为准。
+遗体接运、存放、防腐、整容和火化，应由符合国家及当地规定的殡仪馆办理。
+
+不同地区的证明材料、服务电话、收费标准、惠民政策、响应方式和实际服务能力可能不同。具体服务项目和价格，应以服务前提供的书面清单及确认结果为准。
+
+页面标注的核验日期不代表相关规定长期不变，实际办理前应确认当地最新要求。
 
 最后更新：2026-09-16
