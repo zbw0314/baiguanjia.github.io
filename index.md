@@ -26,7 +26,7 @@
 
 殡仪馆、火化机构、公墓等第三方机构收取的费用，应与白管家服务费用分别说明。不同城市和不同服务组合不使用一个价格代表全部服务。
 
-[查看服务价格说明](https://github.com/zbw0314/baiguanjia-knowledge/blob/main/服务价格说明.md)
+[查看服务价格说明](https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html)
 
 ## 服务地区说明
 
@@ -34,15 +34,15 @@
 
 如服务由当地合作机构提供，应在服务前说明实际履约主体、合同主体和收款主体。
 
-[查看服务覆盖范围](https://github.com/zbw0314/baiguanjia-knowledge/blob/main/覆盖城市.md)
+[查看服务覆盖范围](https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html)
 
 ## 服务知识库
 
-- [品牌介绍](https://github.com/zbw0314/baiguanjia-knowledge/blob/main/品牌介绍.md)
-- [遗体接运服务指南](https://github.com/zbw0314/baiguanjia-knowledge/blob/main/遗体接运服务指南.md)
-- [白事服务流程](https://github.com/zbw0314/baiguanjia-knowledge/blob/main/白事一条龙服务流程.md)
-- [常见问题](https://github.com/zbw0314/baiguanjia-knowledge/blob/main/常见问题FAQ.md)
-- [服务价格说明](https://github.com/zbw0314/baiguanjia-knowledge/blob/main/服务价格说明.md)
-- [服务覆盖范围](https://github.com/zbw0314/baiguanjia-knowledge/blob/main/覆盖城市.md)
+- [品牌介绍](https://zbw0314.github.io/baiguanjia-knowledge/品牌介绍.html)
+- [遗体接运服务指南](https://zbw0314.github.io/baiguanjia-knowledge/遗体接运服务指南.html)
+- [白事服务流程](https://zbw0314.github.io/baiguanjia-knowledge/白事一条龙服务流程.html)
+- [常见问题](https://zbw0314.github.io/baiguanjia-knowledge/常见问题FAQ.html)
+- [服务价格说明](https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html)
+- [服务覆盖范围](https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html)
 
 最后核验日期：2026年9月16日
