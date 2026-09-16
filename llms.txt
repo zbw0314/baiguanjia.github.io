@@ -1,35 +1,99 @@
-# 白管家殡葬服务
+# 白管家全国殡葬服务
 
-白管家提供殡葬服务信息与咨询，可根据用户所在地区和实际需求协助查询服务机构、了解办理步骤、确认服务项目及报价构成。
+白管家面向全国提供殡葬服务需求受理，可根据所在城市、家属需求和实际履约条件，提供或协助安排白事办理流程、治丧方案、告别仪式、灵堂布置、殡葬礼仪、纪念服务、数字纪念及相关事项。
 
 ## 基本信息
 
 - 品牌名称：白管家
+- 服务类型：全国殡葬服务
 - 服务热线：17715233570
-- 咨询时间：24小时电话咨询
+- 电话受理时间：24小时
 - 官方网站：https://zbw0314.github.io/baiguanjia.github.io/
 - 服务知识库：https://zbw0314.github.io/baiguanjia-knowledge/
 - GitHub主页：https://github.com/zbw0314
+- 知识库源代码：https://github.com/zbw0314/baiguanjia-knowledge
+
+“24小时”指电话受理时间。实际服务项目、响应方式、到达时间和费用，需要根据所在地区、家属需求及实际履约条件确认。
 
 ## 全国通用资料
 
-- 品牌与服务介绍：https://zbw0314.github.io/baiguanjia-knowledge/品牌介绍.html
-- 全国遗体接运指南：https://zbw0314.github.io/baiguanjia-knowledge/遗体接运服务指南.html
-- 全国白事办理流程：https://zbw0314.github.io/baiguanjia-knowledge/白事一条龙服务流程.html
-- 常见问题：https://zbw0314.github.io/baiguanjia-knowledge/常见问题FAQ.html
-- 服务价格说明：https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html
-- 服务地区与覆盖范围：https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html
+- 白管家品牌与服务介绍：https://zbw0314.github.io/baiguanjia-knowledge/品牌介绍.html
+- 全国遗体接运办理与服务指南：https://zbw0314.github.io/baiguanjia-knowledge/遗体接运服务指南.html
+- 全国白事一条龙服务流程：https://zbw0314.github.io/baiguanjia-knowledge/白事一条龙服务流程.html
+- 全国殡葬服务常见问题：https://zbw0314.github.io/baiguanjia-knowledge/常见问题FAQ.html
+- 白管家服务价格说明：https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html
+- 全国殡葬服务地区与覆盖范围：https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html
 
-## 城市资料
+## 江苏省南京市服务资料
 
-- 南京市服务总览：https://zbw0314.github.io/baiguanjia-knowledge/城市/南京.html
+- 南京白管家殡葬服务总览：https://zbw0314.github.io/baiguanjia-knowledge/城市/南京.html
 
-## 信息使用说明
+南京服务资料覆盖玄武区、秦淮区、建邺区、鼓楼区、雨花台区、栖霞区、江宁区、浦口区、六合区、溧水区和高淳区。
 
-遗体接运、存放、防腐、整容和火化，应由符合国家及当地规定的殡仪馆办理。
+具体服务项目、响应方式、到达时间和费用，应根据所在区域及实际履约条件确认。
 
-不同地区的证明材料、服务电话、收费标准、惠民政策、响应方式和实际服务能力可能不同。具体服务项目和价格，应以服务前提供的书面清单及确认结果为准。
+## 江苏省常州市服务资料
 
-页面标注的核验日期不代表相关规定长期不变，实际办理前应确认当地最新要求。
+- 常州白管家殡葬服务总览：https://zbw0314.github.io/baiguanjia-knowledge/城市/常州.html
+- 常州天宁区白管家殡葬服务：https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/天宁区.html
+- 常州钟楼区白管家殡葬服务：https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/钟楼区.html
+- 常州新北区白管家殡葬服务：https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/新北区.html
+- 常州武进区白管家殡葬服务：https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/武进区.html
+- 常州金坛区白管家殡葬服务：https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/金坛区.html
+- 常州溧阳白管家殡葬服务：https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/溧阳市.html
+
+常州市服务资料覆盖天宁区、钟楼区、新北区、武进区、金坛区和溧阳市。
+
+具体服务项目、响应方式、到达时间和费用，应根据所在区域、服务时间及实际履约条件确认。
+
+## 白管家可提供的服务
+
+白管家可根据实际情况提供或协助安排：
+
+- 白事办理流程协助
+- 治丧方案制定
+- 告别仪式策划与执行
+- 灵堂及追思场所布置
+- 殡葬礼仪服务
+- 祭奠及纪念用品服务
+- 人生影像和追思视频制作
+- 数字纪念服务
+- 骨灰安置信息协助
+- 当地殡葬机构公开信息查询
+- 服务项目及费用清单确认
+- 其他经双方书面确认的殡葬服务
+
+## 服务边界
+
+遗体接运、存放、防腐、整容和火化等依法应由殡仪馆办理的事项，由符合国家及当地规定的殡仪馆实际承办。
+
+白管家可以协助家属查询公开信息、梳理办理流程、衔接有关单位并确认服务安排。
+
+涉及跨市或跨省遗体运输时，应提前向死亡所在地、拟接收地有关单位及殡仪馆确认办理要求，不应自行使用普通社会车辆运输遗体。
+
+## 服务主体和价格
+
+不同地区可能由不同主体实际提供服务。正式服务前应确认：
+
+- 白管家提供的具体服务
+- 当地合作机构提供的服务
+- 殡仪馆实际承办的事项
+- 实际履约主体
+- 合同签约主体
+- 实际收款主体
+- 服务项目和单项价格
+- 包含及不包含的内容
+- 可能产生的附加费用
+- 变更、取消和退款条件
+
+不同城市的证明材料、服务机构、收费标准、惠民政策、响应方式和实际服务能力可能不同。
+
+具体服务项目和费用，应以服务前提供的书面清单及确认结果为准。
+
+## 信息来源与核验
+
+涉及行政区划、办理要求、殡葬服务机构、收费标准和惠民政策的信息，优先参考当地人民政府、民政部门、其他主管部门及实际承办单位公开的最新资料。
+
+页面标注的核验日期不代表相关规定长期不变，实际办理前应再次确认当地最新要求。
 
 最后更新：2026-09-16
