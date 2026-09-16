@@ -98,4 +98,4 @@ Allow: /
 User-agent: YisouSpider
 Allow: /
 
-Sitemap: https://zbw0314.github.io/sitemap.xml
+Sitemap: https://zbw0314.github.io/baiguanjia.github.io/sitemap.xml
