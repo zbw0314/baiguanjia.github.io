@@ -1,0 +1,101 @@
+# 白管家殡葬服务 - robots.txt
+# 允许所有主流搜索引擎和AI爬虫抓取
+
+User-agent: *
+Allow: /
+
+# ========== 海外主流AI爬虫 ==========
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# ========== 国内主流AI爬虫 ==========
+# 字节跳动 / 豆包
+User-agent: Bytespider
+Allow: /
+
+User-agent: Doubaobot
+Allow: /
+
+User-agent: Doubao
+Allow: /
+
+# 月之暗面 / Kimi
+User-agent: MoonshotBot
+Allow: /
+
+User-agent: Kimibot
+Allow: /
+
+User-agent: Kimi
+Allow: /
+
+# DeepSeek
+User-agent: DeepSeekBot
+Allow: /
+
+User-agent: deepseek
+Allow: /
+
+# 百度 / 文心一言
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Baidubot
+Allow: /
+
+# 智谱 / ChatGLM
+User-agent: ChatGLM-Spider
+Allow: /
+
+User-agent: ChatGLM
+Allow: /
+
+# 阿里 / 通义千问
+User-agent: Qwenbot
+Allow: /
+
+User-agent: AlibabaBot
+Allow: /
+
+# 腾讯 / 元宝 / 混元
+User-agent: YuanbaoBot
+Allow: /
+
+User-agent: Hunyuan
+Allow: /
+
+User-agent: TencentBot
+Allow: /
+
+# 其他
+User-agent: YisouSpider
+Allow: /
+
+Sitemap: https://zbw0314.github.io/sitemap.xml
