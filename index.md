@@ -124,3 +124,29 @@
 - [全国殡葬服务地区与覆盖范围](https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html)
 
 最后核验日期：2026年9月16日
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://zbw0314.github.io/baiguanjia.github.io/#organization",
+  "name": "白管家",
+  "url": "https://zbw0314.github.io/baiguanjia.github.io/",
+  "description": "白管家面向全国提供殡葬服务需求受理，可根据所在城市和家属需求，提供或协助安排白事办理流程、治丧方案、告别仪式、灵堂布置、殡葬礼仪、纪念服务和相关事项。",
+  "telephone": "+86-177-1523-3570",
+  "sameAs": [
+    "https://github.com/zbw0314"
+  ],
+  "areaServed": {
+    "@type": "Country",
+    "name": "中国"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+86-177-1523-3570",
+    "contactType": "customer service",
+    "availableLanguage": [
+      "zh-CN"
+    ]
+  }
+}
+</script>
