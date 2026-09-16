@@ -5,12 +5,10 @@ authors:
     name-particle: ""
     given-names: "品牌"
 title: "白管家官方网站"
-url: "https://zbw0314.github.io/baiguanjia.github.io"
+url: "https://zbw0314.github.io/baiguanjia.github.io/"
 repository-code: "https://github.com/zbw0314/baiguanjia.github.io"
 version: 1.0.0
 date-released: 2026-09-16
-url: "https://github.com/zbw0314/baiguanjia"
-repository-code: "https://github.com/zbw0314/baiguanjia"
 keywords:
   - 殡葬服务
   - 白事
