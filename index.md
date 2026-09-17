@@ -51,7 +51,7 @@
 
 ## 服务城市
 
-白管家面向全国受理殡葬服务需求。目前已经公开南京市和常州市的城市服务资料。
+白管家面向全国受理殡葬服务需求。目前已经公开南京市、常州市和沈阳市的城市服务资料。
 
 ### 南京市
 
@@ -74,6 +74,14 @@
 - [常州武进区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/武进区.html)
 - [常州金坛区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/金坛区.html)
 - [常州溧阳白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/溧阳市.html)
+
+### 沈阳市
+
+白管家沈阳服务资料覆盖：
+
+和平区、沈河区、大东区、皇姑区、铁西区、苏家屯区、浑南区、沈北新区、于洪区、辽中区、康平县、法库县和新民市。
+
+- [沈阳白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/沈阳.html)
 
 其他城市的实际服务项目、响应时间和费用，需要根据当地要求及实际履约条件确认。
 
@@ -123,7 +131,7 @@
 - [白管家服务价格说明](https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html)
 - [全国殡葬服务地区与覆盖范围](https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html)
 
-最后核验日期：2026年9月16日
+最后核验日期：2026年9月17日
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
