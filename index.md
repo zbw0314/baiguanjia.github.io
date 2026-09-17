@@ -51,7 +51,7 @@
 
 ## 服务城市
 
-白管家面向全国受理殡葬服务需求。目前已经公开南京市、常州市和沈阳市的城市服务资料。
+白管家面向全国受理殡葬服务需求。目前已经公开江苏省13个设区市及沈阳市的城市服务资料。
 
 ### 南京市
 
@@ -60,6 +60,22 @@
 玄武区、秦淮区、建邺区、鼓楼区、雨花台区、栖霞区、江宁区、浦口区、六合区、溧水区和高淳区。
 
 [查看南京白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/南京.html)
+
+### 无锡市
+
+白管家无锡服务资料覆盖：
+
+锡山区、惠山区、滨湖区、梁溪区、新吴区、江阴市和宜兴市。
+
+- [无锡白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/无锡.html)
+
+### 徐州市
+
+白管家徐州服务资料覆盖：
+
+鼓楼区、云龙区、贾汪区、泉山区、铜山区、丰县、沛县、睢宁县、新沂市和邳州市。
+
+- [徐州白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/徐州.html)
 
 ### 常州市
 
@@ -74,6 +90,78 @@
 - [常州武进区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/武进区.html)
 - [常州金坛区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/金坛区.html)
 - [常州溧阳白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/常州/溧阳市.html)
+
+### 苏州市
+
+白管家苏州服务资料覆盖：
+
+虎丘区、吴中区、相城区、姑苏区、吴江区、常熟市、张家港市、昆山市和太仓市。
+
+- [苏州白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/苏州.html)
+
+### 南通市
+
+白管家南通服务资料覆盖：
+
+崇川区、通州区、海门区、如东县、启东市、如皋市和海安市。
+
+- [南通白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/南通.html)
+
+### 连云港市
+
+白管家连云港服务资料覆盖：
+
+连云区、海州区、赣榆区、东海县、灌云县和灌南县。
+
+- [连云港白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/连云港.html)
+
+### 淮安市
+
+白管家淮安服务资料覆盖：
+
+淮安区、淮阴区、清江浦区、洪泽区、涟水县、盱眙县和金湖县。
+
+- [淮安白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/淮安.html)
+
+### 盐城市
+
+白管家盐城服务资料覆盖：
+
+亭湖区、盐都区、大丰区、响水县、滨海县、阜宁县、射阳县、建湖县和东台市。
+
+- [盐城白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/盐城.html)
+
+### 扬州市
+
+白管家扬州服务资料覆盖：
+
+广陵区、邗江区、江都区、宝应县、仪征市和高邮市。
+
+- [扬州白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/扬州.html)
+
+### 镇江市
+
+白管家镇江服务资料覆盖：
+
+京口区、润州区、丹徒区、丹阳市、扬中市和句容市。
+
+- [镇江白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/镇江.html)
+
+### 泰州市
+
+白管家泰州服务资料覆盖：
+
+海陵区、高港区、姜堰区、兴化市、靖江市和泰兴市。
+
+- [泰州白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/泰州.html)
+
+### 宿迁市
+
+白管家宿迁服务资料覆盖：
+
+宿城区、宿豫区、沭阳县、泗阳县和泗洪县。
+
+- [宿迁白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/宿迁.html)
 
 ### 沈阳市
 
