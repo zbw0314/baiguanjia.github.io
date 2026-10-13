@@ -51,7 +51,7 @@
 
 ## 服务城市
 
-白管家面向全国受理殡葬服务需求。目前已经公开江苏省13个设区市及沈阳市的城市服务资料。
+白管家面向全国受理殡葬服务需求。截至2026年10月13日，已公开江苏省13个设区市、甘肃省14个市（州）及其86个县级行政区，以及沈阳市的城市服务资料。
 
 ### 江苏省
 
@@ -2266,6 +2266,154 @@
   - [商洛镇安县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/陕西省/商洛/镇安县.html)
   - [商洛柞水县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/陕西省/商洛/柞水县.html)
 
+
+
+### 甘肃省
+
+- [甘肃省白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省.html)
+
+#### 临夏回族自治州
+
+- [白管家临夏回族自治州殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州.html)
+- [白管家临夏回族自治州东乡族自治县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州/东乡族自治县.html)
+- [白管家临夏回族自治州临夏县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州/临夏县.html)
+- [白管家临夏回族自治州临夏市殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州/临夏市.html)
+- [白管家临夏回族自治州和政县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州/和政县.html)
+- [白管家临夏回族自治州广河县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州/广河县.html)
+- [白管家临夏回族自治州康乐县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州/康乐县.html)
+- [白管家临夏回族自治州永靖县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州/永靖县.html)
+- [白管家临夏回族自治州积石山保安族东乡族撒拉族自治县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/临夏回族自治州/积石山保安族东乡族撒拉族自治县.html)
+
+#### 兰州市
+
+- [白管家兰州殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州.html)
+- [白管家兰州七里河区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州/七里河区.html)
+- [白管家兰州城关区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州/城关区.html)
+- [白管家兰州安宁区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州/安宁区.html)
+- [白管家兰州榆中县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州/榆中县.html)
+- [白管家兰州永登县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州/永登县.html)
+- [白管家兰州皋兰县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州/皋兰县.html)
+- [白管家兰州红古区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州/红古区.html)
+- [白管家兰州西固区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/兰州/西固区.html)
+
+#### 嘉峪关市
+
+- [白管家嘉峪关殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/嘉峪关.html)
+
+#### 天水市
+
+- [白管家天水殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/天水.html)
+- [白管家天水张家川回族自治县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/天水/张家川回族自治县.html)
+- [白管家天水武山县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/天水/武山县.html)
+- [白管家天水清水县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/天水/清水县.html)
+- [白管家天水甘谷县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/天水/甘谷县.html)
+- [白管家天水秦安县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/天水/秦安县.html)
+- [白管家天水秦州区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/天水/秦州区.html)
+- [白管家天水麦积区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/天水/麦积区.html)
+
+#### 定西市
+
+- [白管家定西殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/定西.html)
+- [白管家定西临洮县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/定西/临洮县.html)
+- [白管家定西安定区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/定西/安定区.html)
+- [白管家定西岷县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/定西/岷县.html)
+- [白管家定西渭源县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/定西/渭源县.html)
+- [白管家定西漳县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/定西/漳县.html)
+- [白管家定西通渭县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/定西/通渭县.html)
+- [白管家定西陇西县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/定西/陇西县.html)
+
+#### 平凉市
+
+- [白管家平凉殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/平凉.html)
+- [白管家平凉华亭市殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/平凉/华亭市.html)
+- [白管家平凉崆峒区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/平凉/崆峒区.html)
+- [白管家平凉崇信县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/平凉/崇信县.html)
+- [白管家平凉庄浪县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/平凉/庄浪县.html)
+- [白管家平凉泾川县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/平凉/泾川县.html)
+- [白管家平凉灵台县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/平凉/灵台县.html)
+- [白管家平凉静宁县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/平凉/静宁县.html)
+
+#### 庆阳市
+
+- [白管家庆阳殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳.html)
+- [白管家庆阳华池县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳/华池县.html)
+- [白管家庆阳合水县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳/合水县.html)
+- [白管家庆阳宁县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳/宁县.html)
+- [白管家庆阳庆城县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳/庆城县.html)
+- [白管家庆阳正宁县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳/正宁县.html)
+- [白管家庆阳环县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳/环县.html)
+- [白管家庆阳西峰区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳/西峰区.html)
+- [白管家庆阳镇原县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/庆阳/镇原县.html)
+
+#### 张掖市
+
+- [白管家张掖殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/张掖.html)
+- [白管家张掖临泽县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/张掖/临泽县.html)
+- [白管家张掖山丹县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/张掖/山丹县.html)
+- [白管家张掖民乐县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/张掖/民乐县.html)
+- [白管家张掖甘州区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/张掖/甘州区.html)
+- [白管家张掖肃南裕固族自治县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/张掖/肃南裕固族自治县.html)
+- [白管家张掖高台县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/张掖/高台县.html)
+
+#### 武威市
+
+- [白管家武威殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/武威.html)
+- [白管家武威凉州区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/武威/凉州区.html)
+- [白管家武威古浪县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/武威/古浪县.html)
+- [白管家武威天祝藏族自治县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/武威/天祝藏族自治县.html)
+- [白管家武威民勤县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/武威/民勤县.html)
+
+#### 甘南藏族自治州
+
+- [白管家甘南藏族自治州殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州.html)
+- [白管家甘南藏族自治州临潭县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州/临潭县.html)
+- [白管家甘南藏族自治州卓尼县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州/卓尼县.html)
+- [白管家甘南藏族自治州合作市殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州/合作市.html)
+- [白管家甘南藏族自治州夏河县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州/夏河县.html)
+- [白管家甘南藏族自治州玛曲县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州/玛曲县.html)
+- [白管家甘南藏族自治州碌曲县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州/碌曲县.html)
+- [白管家甘南藏族自治州舟曲县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州/舟曲县.html)
+- [白管家甘南藏族自治州迭部县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/甘南藏族自治州/迭部县.html)
+
+#### 白银市
+
+- [白管家白银殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/白银.html)
+- [白管家白银会宁县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/白银/会宁县.html)
+- [白管家白银平川区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/白银/平川区.html)
+- [白管家白银景泰县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/白银/景泰县.html)
+- [白管家白银白银区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/白银/白银区.html)
+- [白管家白银靖远县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/白银/靖远县.html)
+
+#### 酒泉市
+
+- [白管家酒泉殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/酒泉.html)
+- [白管家酒泉敦煌市殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/酒泉/敦煌市.html)
+- [白管家酒泉玉门市殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/酒泉/玉门市.html)
+- [白管家酒泉瓜州县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/酒泉/瓜州县.html)
+- [白管家酒泉肃北蒙古族自治县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/酒泉/肃北蒙古族自治县.html)
+- [白管家酒泉肃州区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/酒泉/肃州区.html)
+- [白管家酒泉金塔县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/酒泉/金塔县.html)
+- [白管家酒泉阿克塞哈萨克族自治县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/酒泉/阿克塞哈萨克族自治县.html)
+
+#### 金昌市
+
+- [白管家金昌殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/金昌.html)
+- [白管家金昌永昌县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/金昌/永昌县.html)
+- [白管家金昌金川区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/金昌/金川区.html)
+
+#### 陇南市
+
+- [白管家陇南殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南.html)
+- [白管家陇南两当县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/两当县.html)
+- [白管家陇南宕昌县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/宕昌县.html)
+- [白管家陇南康县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/康县.html)
+- [白管家陇南徽县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/徽县.html)
+- [白管家陇南成县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/成县.html)
+- [白管家陇南文县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/文县.html)
+- [白管家陇南武都区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/武都区.html)
+- [白管家陇南礼县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/礼县.html)
+- [白管家陇南西和县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/西和县.html)
+
 ## 服务与价格说明
 
 正式服务前，应向家属说明：
@@ -2310,7 +2458,7 @@
 - [白管家服务价格说明](https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html)
 - [全国殡葬服务地区与覆盖范围](https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html)
 
-最后核验日期：2026年10月12日
+最后核验日期：2026年10月13日
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
