@@ -51,7 +51,7 @@
 
 ## 服务城市
 
-白管家面向全国受理殡葬服务需求。截至2026年10月13日，已公开江苏省13个设区市、甘肃省14个市（州）及其86个县级行政区，以及沈阳市的城市服务资料。
+白管家面向全国受理殡葬服务需求。截至2026年10月14日，已公开江苏省13个设区市、甘肃省14个市（州）及其86个县级行政区、青海省8个地级单位及45个县级统计单元，以及沈阳市的城市服务资料。
 
 ### 江苏省
 
@@ -2413,6 +2413,89 @@
 - [白管家陇南武都区殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/武都区.html)
 - [白管家陇南礼县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/礼县.html)
 - [白管家陇南西和县殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/甘肃省/陇南/西和县.html)
+
+### 青海省
+
+- [青海省白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省.html)
+
+#### 西宁市
+
+- [西宁白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E8%A5%BF%E5%AE%81.html)
+  - [西宁城东区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E8%A5%BF%E5%AE%81/%E5%9F%8E%E4%B8%9C%E5%8C%BA.html)
+  - [西宁城中区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E8%A5%BF%E5%AE%81/%E5%9F%8E%E4%B8%AD%E5%8C%BA.html)
+  - [西宁城西区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E8%A5%BF%E5%AE%81/%E5%9F%8E%E8%A5%BF%E5%8C%BA.html)
+  - [西宁城北区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E8%A5%BF%E5%AE%81/%E5%9F%8E%E5%8C%97%E5%8C%BA.html)
+  - [西宁大通回族土族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E8%A5%BF%E5%AE%81/%E5%A4%A7%E9%80%9A%E5%9B%9E%E6%97%8F%E5%9C%9F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF.html)
+  - [西宁湟中区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E8%A5%BF%E5%AE%81/%E6%B9%9F%E4%B8%AD%E5%8C%BA.html)
+  - [西宁湟源县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E8%A5%BF%E5%AE%81/%E6%B9%9F%E6%BA%90%E5%8E%BF.html)
+
+#### 海东市
+
+- [海东白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E4%B8%9C.html)
+  - [海东乐都区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E4%B8%9C/%E4%B9%90%E9%83%BD%E5%8C%BA.html)
+  - [海东平安区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E4%B8%9C/%E5%B9%B3%E5%AE%89%E5%8C%BA.html)
+  - [海东民和回族土族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E4%B8%9C/%E6%B0%91%E5%92%8C%E5%9B%9E%E6%97%8F%E5%9C%9F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF.html)
+  - [海东互助土族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E4%B8%9C/%E4%BA%92%E5%8A%A9%E5%9C%9F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF.html)
+  - [海东化隆回族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E4%B8%9C/%E5%8C%96%E9%9A%86%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF.html)
+  - [海东循化撒拉族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E4%B8%9C/%E5%BE%AA%E5%8C%96%E6%92%92%E6%8B%89%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF.html)
+
+#### 海北藏族自治州
+
+- [海北藏族自治州白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8C%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E.html)
+  - [海北藏族自治州门源回族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8C%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E9%97%A8%E6%BA%90%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF.html)
+  - [海北藏族自治州祁连县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8C%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E7%A5%81%E8%BF%9E%E5%8E%BF.html)
+  - [海北藏族自治州海晏县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8C%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E6%B5%B7%E6%99%8F%E5%8E%BF.html)
+  - [海北藏族自治州刚察县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8C%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%88%9A%E5%AF%9F%E5%8E%BF.html)
+
+#### 黄南藏族自治州
+
+- [黄南藏族自治州白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E9%BB%84%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E.html)
+  - [黄南藏族自治州同仁市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E9%BB%84%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%90%8C%E4%BB%81%E5%B8%82.html)
+  - [黄南藏族自治州尖扎县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E9%BB%84%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%B0%96%E6%89%8E%E5%8E%BF.html)
+  - [黄南藏族自治州泽库县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E9%BB%84%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E6%B3%BD%E5%BA%93%E5%8E%BF.html)
+  - [黄南藏族自治州河南蒙古族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E9%BB%84%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E6%B2%B3%E5%8D%97%E8%92%99%E5%8F%A4%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF.html)
+
+#### 海南藏族自治州
+
+- [海南藏族自治州白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E.html)
+  - [海南藏族自治州共和县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%85%B1%E5%92%8C%E5%8E%BF.html)
+  - [海南藏族自治州贵德县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E8%B4%B5%E5%BE%B7%E5%8E%BF.html)
+  - [海南藏族自治州贵南县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E8%B4%B5%E5%8D%97%E5%8E%BF.html)
+  - [海南藏族自治州同德县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%90%8C%E5%BE%B7%E5%8E%BF.html)
+  - [海南藏族自治州兴海县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E5%8D%97%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%85%B4%E6%B5%B7%E5%8E%BF.html)
+
+#### 果洛藏族自治州
+
+- [果洛藏族自治州白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%9E%9C%E6%B4%9B%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E.html)
+  - [果洛藏族自治州玛沁县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%9E%9C%E6%B4%9B%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E7%8E%9B%E6%B2%81%E5%8E%BF.html)
+  - [果洛藏族自治州班玛县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%9E%9C%E6%B4%9B%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E7%8F%AD%E7%8E%9B%E5%8E%BF.html)
+  - [果洛藏族自治州甘德县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%9E%9C%E6%B4%9B%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E7%94%98%E5%BE%B7%E5%8E%BF.html)
+  - [果洛藏族自治州达日县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%9E%9C%E6%B4%9B%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E8%BE%BE%E6%97%A5%E5%8E%BF.html)
+  - [果洛藏族自治州久治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%9E%9C%E6%B4%9B%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E4%B9%85%E6%B2%BB%E5%8E%BF.html)
+  - [果洛藏族自治州玛多县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%9E%9C%E6%B4%9B%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E7%8E%9B%E5%A4%9A%E5%8E%BF.html)
+
+#### 玉树藏族自治州
+
+- [玉树藏族自治州白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E7%8E%89%E6%A0%91%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E.html)
+  - [玉树藏族自治州玉树市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E7%8E%89%E6%A0%91%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E7%8E%89%E6%A0%91%E5%B8%82.html)
+  - [玉树藏族自治州杂多县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E7%8E%89%E6%A0%91%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E6%9D%82%E5%A4%9A%E5%8E%BF.html)
+  - [玉树藏族自治州称多县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E7%8E%89%E6%A0%91%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E7%A7%B0%E5%A4%9A%E5%8E%BF.html)
+  - [玉树藏族自治州治多县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E7%8E%89%E6%A0%91%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E6%B2%BB%E5%A4%9A%E5%8E%BF.html)
+  - [玉树藏族自治州囊谦县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E7%8E%89%E6%A0%91%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%9B%8A%E8%B0%A6%E5%8E%BF.html)
+  - [玉树藏族自治州曲麻莱县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E7%8E%89%E6%A0%91%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E6%9B%B2%E9%BA%BB%E8%8E%B1%E5%8E%BF.html)
+
+#### 海西蒙古族藏族自治州
+
+- [海西蒙古族藏族自治州白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E8%A5%BF%E8%92%99%E5%8F%A4%E6%97%8F%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E.html)
+  - [海西蒙古族藏族自治州德令哈市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E8%A5%BF%E8%92%99%E5%8F%A4%E6%97%8F%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%BE%B7%E4%BB%A4%E5%93%88%E5%B8%82.html)
+  - [海西蒙古族藏族自治州格尔木市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E8%A5%BF%E8%92%99%E5%8F%A4%E6%97%8F%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E6%A0%BC%E5%B0%94%E6%9C%A8%E5%B8%82.html)
+  - [海西蒙古族藏族自治州乌兰县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E8%A5%BF%E8%92%99%E5%8F%A4%E6%97%8F%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E4%B9%8C%E5%85%B0%E5%8E%BF.html)
+  - [海西蒙古族藏族自治州都兰县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E8%A5%BF%E8%92%99%E5%8F%A4%E6%97%8F%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E9%83%BD%E5%85%B0%E5%8E%BF.html)
+  - [海西蒙古族藏族自治州天峻县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E8%A5%BF%E8%92%99%E5%8F%A4%E6%97%8F%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%A4%A9%E5%B3%BB%E5%8E%BF.html)
+  - [海西蒙古族藏族自治州茫崖市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E8%A5%BF%E8%92%99%E5%8F%A4%E6%97%8F%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E8%8C%AB%E5%B4%96%E5%B8%82.html)
+  - [海西蒙古族藏族自治州大柴旦行政委员会管理区域白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/青海省/%E6%B5%B7%E8%A5%BF%E8%92%99%E5%8F%A4%E6%97%8F%E8%97%8F%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/%E5%A4%A7%E6%9F%B4%E6%97%A6%E8%A1%8C%E6%94%BF%E5%A7%94%E5%91%98%E4%BC%9A.html)（行委管理区域）
+
+省民政厅截至2026年7月31日公告列出全省8个地级单位和45个县级统计单元，其中大柴旦行委单列为管理区域，不将其称作县级行政区。
 
 ## 服务与价格说明
 
