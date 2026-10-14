@@ -2541,7 +2541,7 @@
 - [白管家服务价格说明](https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html)
 - [全国殡葬服务地区与覆盖范围](https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html)
 
-最后核验日期：2026年10月13日
+最后核验日期：2026年10月14日
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
