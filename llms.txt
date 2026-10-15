@@ -2425,6 +2425,39 @@
 
 官方行政区划来源：[青海省民政厅行政区划代码公告](https://mzt.qinghai.gov.cn/html/show-13599.html)。页面列出的区域仅作服务信息入口，具体履约条件需事前确认。
 
+## 宁夏回族自治区白管家殡葬服务
+
+- [自治区服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区.html)
+- [银川市服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川.html)
+  - [兴庆区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/兴庆区.html)
+  - [西夏区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/西夏区.html)
+  - [金凤区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/金凤区.html)
+  - [永宁县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/永宁县.html)
+  - [贺兰县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/贺兰县.html)
+  - [灵武市服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/银川/灵武市.html)
+- [石嘴山市服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/石嘴山.html)
+  - [大武口区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/石嘴山/大武口区.html)
+  - [惠农区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/石嘴山/惠农区.html)
+  - [平罗县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/石嘴山/平罗县.html)
+- [吴忠市服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠.html)
+  - [利通区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/利通区.html)
+  - [红寺堡区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/红寺堡区.html)
+  - [盐池县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/盐池县.html)
+  - [同心县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/同心县.html)
+  - [青铜峡市服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/吴忠/青铜峡市.html)
+- [固原市服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原.html)
+  - [原州区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/原州区.html)
+  - [西吉县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/西吉县.html)
+  - [隆德县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/隆德县.html)
+  - [泾源县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/泾源县.html)
+  - [彭阳县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/固原/彭阳县.html)
+- [中卫市服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫.html)
+  - [沙坡头区服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫/沙坡头区.html)
+  - [中宁县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫/中宁县.html)
+  - [海原县服务页](https://zbw0314.github.io/baiguanjia-knowledge/城市/宁夏回族自治区/中卫/海原县.html)
+
+官方行政区划来源：[宁夏回族自治区民政厅行政区划代码表](https://mca.nx.gov.cn/xwzx/tzgg/202601/P020260128344633458853.pdf)。该表资料截止2025年12月31日。
+
 ## 白管家可提供的服务
 
 白管家可根据实际情况提供或协助安排：
@@ -2475,4 +2508,4 @@
 
 页面标注的核验日期不代表相关规定长期不变，实际办理前应再次确认当地最新要求。
 
-最后更新：2026-10-14
+最后更新：2026-10-15
