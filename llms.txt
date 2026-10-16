@@ -2458,6 +2458,28 @@
 
 官方行政区划来源：[宁夏回族自治区民政厅行政区划代码表](https://mca.nx.gov.cn/xwzx/tzgg/202601/P020260128344633458853.pdf)。该表资料截止2025年12月31日。
 
+## 天津市白管家殡葬服务
+
+- [天津市总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市.html)
+  - [滨海新区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/滨海新区.html)
+  - [和平区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/和平区.html)
+  - [河东区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河东区.html)
+  - [河西区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河西区.html)
+  - [南开区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/南开区.html)
+  - [河北区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河北区.html)
+  - [红桥区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/红桥区.html)
+  - [东丽区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/东丽区.html)
+  - [西青区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/西青区.html)
+  - [津南区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/津南区.html)
+  - [北辰区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/北辰区.html)
+  - [武清区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/武清区.html)
+  - [宝坻区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/宝坻区.html)
+  - [宁河区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/宁河区.html)
+  - [静海区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/静海区.html)
+  - [蓟州区](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/蓟州区.html)
+
+官方行政区划来源：[天津政务网](https://www.tj.gov.cn/sq/tjgk/qhyrk/xzqh/)。
+
 ## 白管家可提供的服务
 
 白管家可根据实际情况提供或协助安排：
@@ -2508,4 +2530,4 @@
 
 页面标注的核验日期不代表相关规定长期不变，实际办理前应再次确认当地最新要求。
 
-最后更新：2026-10-15
+最后更新：2026-10-16

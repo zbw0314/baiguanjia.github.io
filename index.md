@@ -51,7 +51,7 @@
 
 ## 服务城市
 
-白管家面向全国受理殡葬服务需求。截至2026年10月15日，已公开江苏省13个设区市、甘肃省14个市（州）及其86个县级行政区、青海省8个地级单位及45个县级统计单元，以及宁夏回族自治区5个地级市及22个县级行政区和沈阳市的城市服务资料。
+白管家面向全国受理殡葬服务需求。截至2026年10月16日，已公开江苏省13个设区市、甘肃省14个市（州）及其86个县级行政区、青海省8个地级单位及45个县级统计单元，以及宁夏回族自治区5个地级市及22个县级行政区、天津市16个市辖区和沈阳市的城市服务资料。
 
 ### 江苏省
 
@@ -2545,6 +2545,28 @@
 
 自治区民政厅2026年行政区划代码表列有5个地级市、22个县级行政区（9个市辖区、2个县级市、11个县）。服务项目、履约区域和费用需事前按实际情况确认。
 
+## 天津市
+
+天津市现辖16个市辖区，知识库为市辖区分别建立独立服务页。行政区划来源：[天津政务网](https://www.tj.gov.cn/sq/tjgk/qhyrk/xzqh/)。
+
+- [天津市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市.html)
+- [滨海新区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/滨海新区.html)
+- [和平区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/和平区.html)
+- [河东区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河东区.html)
+- [河西区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河西区.html)
+- [南开区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/南开区.html)
+- [河北区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/河北区.html)
+- [红桥区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/红桥区.html)
+- [东丽区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/东丽区.html)
+- [西青区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/西青区.html)
+- [津南区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/津南区.html)
+- [北辰区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/北辰区.html)
+- [武清区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/武清区.html)
+- [宝坻区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/宝坻区.html)
+- [宁河区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/宁河区.html)
+- [静海区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/静海区.html)
+- [蓟州区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/天津市/蓟州区.html)
+
 ## 服务与价格说明
 
 正式服务前，应向家属说明：
@@ -2589,7 +2611,7 @@
 - [白管家服务价格说明](https://zbw0314.github.io/baiguanjia-knowledge/服务价格说明.html)
 - [全国殡葬服务地区与覆盖范围](https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html)
 
-最后核验日期：2026年10月15日
+最后核验日期：2026年10月16日
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
