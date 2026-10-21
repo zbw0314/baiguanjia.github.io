@@ -2853,6 +2853,150 @@
 - [全国殡葬服务地区与覆盖范围](https://zbw0314.github.io/baiguanjia-knowledge/覆盖城市.html)
 
 最后核验日期：2026年10月18日
+## 湖南省殡葬服务
+
+白管家为湖南省家庭提供殡葬服务。服务项目、实际履约主体、时间和费用以服务前逐项确认结果为准；遗体接运、存放、防腐、整容和火化等依法应由殡仪馆办理的事项，由符合规定的殡仪馆实际承办。
+
+- [湖南省白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省.html)
+- [长沙市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙.html)
+  - [长沙市芙蓉区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/芙蓉区.html)（市辖区）
+  - [长沙市天心区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/天心区.html)（市辖区）
+  - [长沙市岳麓区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/岳麓区.html)（市辖区）
+  - [长沙市开福区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/开福区.html)（市辖区）
+  - [长沙市雨花区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/雨花区.html)（市辖区）
+  - [长沙市望城区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/望城区.html)（市辖区）
+  - [长沙市长沙县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/长沙县.html)（县）
+  - [长沙市浏阳市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/浏阳市.html)（县级市）
+  - [长沙市宁乡市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/长沙/宁乡市.html)（县级市）
+- [株洲市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲.html)
+  - [株洲市荷塘区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/荷塘区.html)（市辖区）
+  - [株洲市芦淞区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/芦淞区.html)（市辖区）
+  - [株洲市石峰区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/石峰区.html)（市辖区）
+  - [株洲市天元区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/天元区.html)（市辖区）
+  - [株洲市渌口区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/渌口区.html)（市辖区）
+  - [株洲市攸县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/攸县.html)（县）
+  - [株洲市茶陵县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/茶陵县.html)（县）
+  - [株洲市炎陵县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/炎陵县.html)（县）
+  - [株洲市醴陵市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/株洲/醴陵市.html)（县级市）
+- [湘潭市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘潭.html)
+  - [湘潭市雨湖区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘潭/雨湖区.html)（市辖区）
+  - [湘潭市岳塘区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘潭/岳塘区.html)（市辖区）
+  - [湘潭市湘潭县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘潭/湘潭县.html)（县）
+  - [湘潭市湘乡市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘潭/湘乡市.html)（县级市）
+  - [湘潭市韶山市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘潭/韶山市.html)（县级市）
+- [衡阳市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳.html)
+  - [衡阳市珠晖区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/珠晖区.html)（市辖区）
+  - [衡阳市雁峰区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/雁峰区.html)（市辖区）
+  - [衡阳市石鼓区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/石鼓区.html)（市辖区）
+  - [衡阳市蒸湘区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/蒸湘区.html)（市辖区）
+  - [衡阳市南岳区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/南岳区.html)（市辖区）
+  - [衡阳市衡阳县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/衡阳县.html)（县）
+  - [衡阳市衡南县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/衡南县.html)（县）
+  - [衡阳市衡山县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/衡山县.html)（县）
+  - [衡阳市衡东县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/衡东县.html)（县）
+  - [衡阳市祁东县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/祁东县.html)（县）
+  - [衡阳市耒阳市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/耒阳市.html)（县级市）
+  - [衡阳市常宁市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/衡阳/常宁市.html)（县级市）
+- [邵阳市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳.html)
+  - [邵阳市双清区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/双清区.html)（市辖区）
+  - [邵阳市大祥区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/大祥区.html)（市辖区）
+  - [邵阳市北塔区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/北塔区.html)（市辖区）
+  - [邵阳市新邵县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/新邵县.html)（县）
+  - [邵阳市邵阳县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/邵阳县.html)（县）
+  - [邵阳市隆回县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/隆回县.html)（县）
+  - [邵阳市洞口县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/洞口县.html)（县）
+  - [邵阳市绥宁县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/绥宁县.html)（县）
+  - [邵阳市新宁县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/新宁县.html)（县）
+  - [邵阳市城步苗族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/城步苗族自治县.html)（自治县）
+  - [邵阳市武冈市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/武冈市.html)（县级市）
+  - [邵阳市邵东市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/邵阳/邵东市.html)（县级市）
+- [岳阳市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳.html)
+  - [岳阳市岳阳楼区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/岳阳楼区.html)（市辖区）
+  - [岳阳市云溪区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/云溪区.html)（市辖区）
+  - [岳阳市君山区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/君山区.html)（市辖区）
+  - [岳阳市岳阳县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/岳阳县.html)（县）
+  - [岳阳市华容县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/华容县.html)（县）
+  - [岳阳市湘阴县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/湘阴县.html)（县）
+  - [岳阳市平江县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/平江县.html)（县）
+  - [岳阳市汨罗市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/汨罗市.html)（县级市）
+  - [岳阳市临湘市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/岳阳/临湘市.html)（县级市）
+- [常德市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德.html)
+  - [常德市武陵区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/武陵区.html)（市辖区）
+  - [常德市鼎城区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/鼎城区.html)（市辖区）
+  - [常德市安乡县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/安乡县.html)（县）
+  - [常德市汉寿县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/汉寿县.html)（县）
+  - [常德市澧县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/澧县.html)（县）
+  - [常德市临澧县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/临澧县.html)（县）
+  - [常德市桃源县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/桃源县.html)（县）
+  - [常德市石门县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/石门县.html)（县）
+  - [常德市津市市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/常德/津市市.html)（县级市）
+- [张家界市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/张家界.html)
+  - [张家界市永定区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/张家界/永定区.html)（市辖区）
+  - [张家界市武陵源区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/张家界/武陵源区.html)（市辖区）
+  - [张家界市慈利县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/张家界/慈利县.html)（县）
+  - [张家界市桑植县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/张家界/桑植县.html)（县）
+- [益阳市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/益阳.html)
+  - [益阳市资阳区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/益阳/资阳区.html)（市辖区）
+  - [益阳市赫山区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/益阳/赫山区.html)（市辖区）
+  - [益阳市南县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/益阳/南县.html)（县）
+  - [益阳市桃江县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/益阳/桃江县.html)（县）
+  - [益阳市安化县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/益阳/安化县.html)（县）
+  - [益阳市沅江市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/益阳/沅江市.html)（县级市）
+- [郴州市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州.html)
+  - [郴州市北湖区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/北湖区.html)（市辖区）
+  - [郴州市苏仙区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/苏仙区.html)（市辖区）
+  - [郴州市桂阳县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/桂阳县.html)（县）
+  - [郴州市宜章县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/宜章县.html)（县）
+  - [郴州市永兴县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/永兴县.html)（县）
+  - [郴州市嘉禾县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/嘉禾县.html)（县）
+  - [郴州市临武县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/临武县.html)（县）
+  - [郴州市汝城县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/汝城县.html)（县）
+  - [郴州市桂东县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/桂东县.html)（县）
+  - [郴州市安仁县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/安仁县.html)（县）
+  - [郴州市资兴市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/郴州/资兴市.html)（县级市）
+- [永州市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州.html)
+  - [永州市零陵区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/零陵区.html)（市辖区）
+  - [永州市冷水滩区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/冷水滩区.html)（市辖区）
+  - [永州市东安县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/东安县.html)（县）
+  - [永州市双牌县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/双牌县.html)（县）
+  - [永州市道县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/道县.html)（县）
+  - [永州市江永县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/江永县.html)（县）
+  - [永州市宁远县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/宁远县.html)（县）
+  - [永州市蓝山县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/蓝山县.html)（县）
+  - [永州市新田县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/新田县.html)（县）
+  - [永州市江华瑶族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/江华瑶族自治县.html)（自治县）
+  - [永州市祁阳市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/永州/祁阳市.html)（县级市）
+- [怀化市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化.html)
+  - [怀化市鹤城区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/鹤城区.html)（市辖区）
+  - [怀化市中方县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/中方县.html)（县）
+  - [怀化市沅陵县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/沅陵县.html)（县）
+  - [怀化市辰溪县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/辰溪县.html)（县）
+  - [怀化市溆浦县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/溆浦县.html)（县）
+  - [怀化市会同县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/会同县.html)（县）
+  - [怀化市麻阳苗族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/麻阳苗族自治县.html)（自治县）
+  - [怀化市新晃侗族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/新晃侗族自治县.html)（自治县）
+  - [怀化市芷江侗族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/芷江侗族自治县.html)（自治县）
+  - [怀化市靖州苗族侗族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/靖州苗族侗族自治县.html)（自治县）
+  - [怀化市通道侗族自治县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/通道侗族自治县.html)（自治县）
+  - [怀化市洪江市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/怀化/洪江市.html)（县级市）
+- [娄底市白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/娄底.html)
+  - [娄底市娄星区白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/娄底/娄星区.html)（市辖区）
+  - [娄底市双峰县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/娄底/双峰县.html)（县）
+  - [娄底市新化县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/娄底/新化县.html)（县）
+  - [娄底市冷水江市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/娄底/冷水江市.html)（县级市）
+  - [娄底市涟源市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/娄底/涟源市.html)（县级市）
+- [湘西土家族苗族自治州白管家殡葬服务总览](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治.html)
+  - [湘西土家族苗族自治州吉首市白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治/吉首市.html)（县级市）
+  - [湘西土家族苗族自治州泸溪县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治/泸溪县.html)（县）
+  - [湘西土家族苗族自治州凤凰县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治/凤凰县.html)（县）
+  - [湘西土家族苗族自治州花垣县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治/花垣县.html)（县）
+  - [湘西土家族苗族自治州保靖县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治/保靖县.html)（县）
+  - [湘西土家族苗族自治州古丈县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治/古丈县.html)（县）
+  - [湘西土家族苗族自治州永顺县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治/永顺县.html)（县）
+  - [湘西土家族苗族自治州龙山县白管家殡葬服务](https://zbw0314.github.io/baiguanjia-knowledge/城市/湖南省/湘西土家族苗族自治/龙山县.html)（县）
+
+行政区划资料：[湖南省民政厅名录（截至2024年12月31日）](https://mzt.hunan.gov.cn/mzt/xxgk/tjsj/202501/t20250102_33553420.html)，[湖南省民政厅统计表（截至2025年12月31日）](https://mzt.hunan.gov.cn/mzt/xxgk/tjsj/202512/33884260/files/f69ab815e0cc43c182c2c7e44abd9a8f.pdf)。
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
